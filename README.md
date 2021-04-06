@@ -4,7 +4,7 @@
 
 <p align="center">  
   <a href="#-project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
-  <a href="#-technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="#-license">License</a>
 </p>
@@ -58,7 +58,7 @@ A seguir veremos com mais detalhes o que e como precisa ser feito 🚀
 
 ## 🔖 Tecnologias
 
-This project was developed using the following technologies:
+Esse projeto está utilizando as seguintes tecnologias
 
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
