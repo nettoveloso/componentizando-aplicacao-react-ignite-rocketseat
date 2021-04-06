@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Watch Me</h1>
+  <h3 align="center">Watch Me</h3>
 </p>
 
 <p align="center">  
@@ -31,6 +31,10 @@
     <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=28F5BE&labelColor=4d4d4d">
   </a>
 
+</p>
+
+<p align="center">
+    <img alt="Watch Me" title="Watch Me" src=".github/preview.png" />
 </p>
 
 <hr>
